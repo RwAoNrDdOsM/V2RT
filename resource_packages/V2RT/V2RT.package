@@ -1,0 +1,11 @@
+mod = [
+	"V2RT"
+]
+
+package = [
+	"resource_packages/V2RT/V2RT"
+]
+
+lua = [
+	"scripts/mods/V2RT/*"
+]
